@@ -13,4 +13,4 @@ In the next big update for Openstreetmap, the following details that will add ch
 
 [Link](https://www.openstreetmap.org) to the existing Openstreetmap website.
 ### Please Read Before Creating An Issue
-Always remember that this is a real next update to Openstreetmap, don't ever post any issues about false informations or else it will get deleted, or you'll get locked out as off-topic.
+Always remember that this is a real next update to Openstreetmap, don't ever post any issues or comments about false informations or else it will get deleted, or you'll get locked out as off-topic converstation.
